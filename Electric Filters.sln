@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electric Filters", "Electric Filters\Electric Filters.csproj", "{C2B689D5-A2D0-4F17-8D44-CE08D077E484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B689D5-A2D0-4F17-8D44-CE08D077E484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B689D5-A2D0-4F17-8D44-CE08D077E484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B689D5-A2D0-4F17-8D44-CE08D077E484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B689D5-A2D0-4F17-8D44-CE08D077E484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7CA9C67-1EE5-44AA-A070-F7CB566262B8}
+	EndGlobalSection
+EndGlobal
